@@ -1,0 +1,3 @@
+https://www.ultralytics.com/
+
+https://github.com/ImranNawar/fire-detection
